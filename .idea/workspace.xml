@@ -4,6 +4,7 @@
     <list default="true" id="5118b7d7-e6bc-4f16-a8af-06ffda7c7180" name="Changes" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GraphAlgorithms.Main" />
@@ -66,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660002662759</updated>
       <workItem from="1660002665551" duration="5450000" />
-      <workItem from="1660056021128" duration="4335000" />
+      <workItem from="1660056021128" duration="4777000" />
+      <workItem from="1660168586760" duration="5591000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1660072531987</created>

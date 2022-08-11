@@ -69,4 +69,38 @@ public class Graph {
             }
         return degree;
     }
+
+    public int highestDegree(){
+        // Returns the highest degree in the graph
+        int highest = 0;
+        for (int i =0; i < this.adjMatrix.length; ++i){
+            int degreeNodeI = this.degree(i);
+            if (degreeNodeI > highest)
+                highest = degreeNodeI;
+        }
+        return highest;
+    }
+
+    public int lowestDegree(){
+        int lowest = this.adjMatrix.length;
+        for(int i = 0; i < this.adjMatrix.length; ++i){
+            int degreeNodeI = this.degree(i);
+            if(degreeNodeI < lowest)
+                lowest = degreeNodeI;
+        }
+        return lowest;
+    }
+
+    public Graph complement(){
+        //Returns the complement of the current graph
+        Graph g2 = new Graph(this.countNodes);
+        for (int i = 0; i < this.adjMatrix.length; ++i){
+            for(int j = 0; j < this.adjMatrix[i].length; j++){
+                if(this.adjMatrix[i][j] == 0 && i!=j)
+                    //g2.adjMatrix[i][j] = 1;
+                    g2.addEdge(i, j, 1); // essa opção é melhor que a de cima pela atualização do contador.
+            }
+        }
+        return g2;
+    }
 }

@@ -10,10 +10,14 @@ public class Main {
         g1.addEdge(3, 4, 2);
         System.out.println(g1);
 
-        System.out.println(g1.degree(0));
-        System.out.println(g1.degree(1));
-        System.out.println(g1.degree(2));
-        System.out.println(g1.degree(3));
+        System.out.println("Number of non-zero degrees: " + g1.degree(0));
+        System.out.println("Number of non-zero degrees: " + g1.degree(1));
+        System.out.println("Number of non-zero degrees: " + g1.degree(2));
+        System.out.println("Number of non-zero degrees: " + g1.degree(3));
+
+        System.out.println("\nHighest Degree: " + g1.highestDegree());
+        System.out.println("Lowest Degree: " + g1.lowestDegree());
+        System.out.println("\nComplement of the current graph: \n" + g1.complement());
 
 
     }
