@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5118b7d7-e6bc-4f16-a8af-06ffda7c7180" name="Changes" comment="First Commit">
+    <list default="true" id="5118b7d7-e6bc-4f16-a8af-06ffda7c7180" name="Changes" comment="Second Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,7 +72,8 @@
       <updated>1660002662759</updated>
       <workItem from="1660002665551" duration="5450000" />
       <workItem from="1660056021128" duration="4777000" />
-      <workItem from="1660168586760" duration="5591000" />
+      <workItem from="1660168586760" duration="7204000" />
+      <workItem from="1660605629421" duration="2614000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1660072531987</created>
@@ -77,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660072531987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1660225590117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660225590132</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second Commit">
+      <created>1660226053217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226053233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
