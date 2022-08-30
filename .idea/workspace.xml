@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5118b7d7-e6bc-4f16-a8af-06ffda7c7180" name="Changes" comment="Second Commit">
+    <list default="true" id="5118b7d7-e6bc-4f16-a8af-06ffda7c7180" name="Changes" comment="Third Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GraphAlgorithms/GraphAlgorithms/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GraphAlgorithms/GraphAlgorithms/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GraphAlgorithms/GraphAlgorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GraphAlgorithms/GraphAlgorithms/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AEDS III - JAVA\GraphAlgorithms" />
+      <recent name="C:\AEDS III - JAVA\GraphAlgorithms\src" />
+      <recent name="C:\AEDS III - JAVA\GraphAlgorithms\out" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GraphAlgorithms.Main" />
@@ -73,7 +83,11 @@
       <workItem from="1660002665551" duration="5450000" />
       <workItem from="1660056021128" duration="4777000" />
       <workItem from="1660168586760" duration="7204000" />
-      <workItem from="1660605629421" duration="2614000" />
+      <workItem from="1660605629421" duration="4601000" />
+      <workItem from="1661210062349" duration="5292000" />
+      <workItem from="1661378338235" duration="6508000" />
+      <workItem from="1661804109447" duration="1284000" />
+      <workItem from="1661816726572" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1660072531987</created>
@@ -96,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660226053233</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Commit">
+      <created>1660736482605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736482605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Third Commit">
+      <created>1660736641845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736641845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
   </component>
 </project>
